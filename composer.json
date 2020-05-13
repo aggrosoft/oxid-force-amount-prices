@@ -1,0 +1,19 @@
+{
+  "name": "aggrosoft/oxid-force-amount-prices",
+  "type": "oxideshop-module",
+  "description": "Force oxid to use amount price even if base price is lower",
+  "license": "MIT",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Alexander Kludt",
+      "homepage": "https://github.com/aggrosoft"
+    }
+  ],
+  "extra": {
+    "oxideshop": {
+      "source-directory": "copy_this/modules/composerman/",
+      "target-directory": "composerman"
+    }
+  }
+}
