@@ -12,8 +12,8 @@
   ],
   "extra": {
     "oxideshop": {
-      "source-directory": "copy_this/modules/composerman/",
-      "target-directory": "composerman"
+      "source-directory": "copy_this/modules/agforceamountprices/",
+      "target-directory": "agforceamountprices"
     }
   }
 }
