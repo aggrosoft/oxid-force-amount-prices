@@ -12,7 +12,7 @@
   ],
   "extra": {
     "oxideshop": {
-      "source-directory": "copy_this/modules/agforceamountprices/",
+      "source-directory": "modules/agforceamountprices/",
       "target-directory": "agforceamountprices"
     }
   }
